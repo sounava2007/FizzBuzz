@@ -26,5 +26,4 @@ void fizzbuzz(){
             printf("%d\n", i);
         }
     }
-    
 }
